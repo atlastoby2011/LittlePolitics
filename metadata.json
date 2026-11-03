@@ -1,0 +1,6 @@
+{
+  "name": "LittlePolitics: Global Tactics & Supremacy",
+  "description": "A deep, turn-based geopolitical nation simulator with persistent online universe, budgetary apparatus, military warfare, and dynamic crisis events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
